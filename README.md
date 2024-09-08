@@ -38,7 +38,7 @@ O Bikcraft é um site de vendas de bicicletas online fictício.
 
 - [Acesse o projeto finalizado, online](https://diegoespelho.github.io/bikcraft)
 
-- [Assistir aulas](https://www.origamid.com/curso/ui-design-para-iniciantes/")
+- [Assistir aulas](https://www.origamid.com/curso/ui-design-para-iniciantes)
 
 ## 🔖 Layout
 
