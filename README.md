@@ -1,7 +1,7 @@
 <h1 align="center">Bikcraft</h1>
 
 <p align="center">
-Projeto desenvolvido durante curso de UI Design e HTML e CSS da Origamid.
+Projeto desenvolvido durante curso de UI Design e HTML/CSS da Origamid.
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@ Projeto desenvolvido durante curso de UI Design e HTML e CSS da Origamid.
   <img alt="Bikcraft" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma)](https://skillicons.dev)
 
@@ -35,7 +35,7 @@ O Bikcraft é um website protótipo de vendas de bicicletas online.
 
 ## 🔖 Layout
 
-O layout desse projeto foi executado utilizando a ferramenta Figma, durante curso de UI Design da Origamid.
+O layout desse projeto foi executado utilizando a ferramenta de design Figma, durante curso de UI Design da Origamid.
 
 ## 📝 Licença
 
