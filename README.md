@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 O Bikcraft é um website protótipo de vendas de bicicletas online.
 
-- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/bikcraft/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/bikcraft-origamid/)
 
 ## 🔖 Layout
 
